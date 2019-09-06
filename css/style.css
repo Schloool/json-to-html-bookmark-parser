@@ -1,0 +1,58 @@
+h1 {
+    color: white;
+    text-shadow: 3px 3px 3px rgb(83, 83, 83);
+    font-size: 50px;
+    text-align: center;
+}
+
+.background {
+    background-color: rgb(64, 105, 194);
+}
+
+.uploadBox {
+    width: 60%; height: 35%;
+    background: white;
+    border-radius: 10px;
+    border: 5px solid black;
+    position: relative;
+    align-items: center;
+    margin: auto;
+    margin-top: 5%;
+}
+
+#uploadText {
+	font-size: 20px;
+	color: rgb(59, 59, 59);
+	margin-top: 15%;
+	text-align: center;
+}
+
+#downloadBox {
+    margin: auto;
+    margin-top: 4%;
+    width: 80%; height: 10%;
+    background: rgb(148, 194, 148);
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+}
+
+#downloadButton {
+    margin: auto;
+    margin-top: 10%;
+    width: 200px; height: 40px;
+    background: rgba(121, 158, 121, 0.541);
+    border: 2px solid rgb(146, 8, 8); 
+    font-weight: bold;
+    border-radius: 8px;
+    transition: transform .7s;
+}
+
+#downloadButton:hover {
+    transform: scale(1.25);
+    background: rgba(0, 0, 0, 0.37);
+}
+
+.confirmation {
+    font-size: 15px;
+}

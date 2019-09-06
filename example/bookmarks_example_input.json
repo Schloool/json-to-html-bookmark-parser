@@ -1,0 +1,91 @@
+{
+   "checksum": "b3fa8c3131b868aa710a8ffb79729c62",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13178895569951998",
+               "id": "5",
+               "meta_info": {
+                  "last_visited_desktop": "13198167104992942"
+               },
+               "name": "Example Page Name",
+               "type": "url",
+               "url": "www.example.com"
+            } ],
+            "date_added": "13179411513637803",
+            "date_modified": "13210081595638494",
+            "id": "21",
+            "name": "Folder 1",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13185542345143815",
+               "id": "60",
+               "meta_info": {
+                  "last_visited_desktop": "13194957253010844"
+               },
+               "name": "GitLab",
+               "type": "url",
+               "url": "https://git-devstools.itelligence.de04.bitcloud.cloud"
+            }, {
+               "children": [ {
+                  "date_added": "13207211374104083",
+                  "id": "135",
+                  "name": "GitLab - my Projects",
+                  "type": "url",
+                  "url": "https://git-devstools.itelligence.de04.bitcloud.cloud/dashboard/projects"
+               } ],
+               "date_added": "13207211413944038",
+               "date_modified": "13207910014995741",
+               "id": "137",
+               "name": "GitLab-Subfolder",
+               "type": "folder"
+            } ],
+            "date_added": "13181817372799407",
+            "date_modified": "13209461010817015",
+            "id": "42",
+            "name": "All the GitLab stuff",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13178895569951998",
+               "id": "22",
+               "meta_info": {
+                  "last_visited_desktop": "13198167104992942"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com"
+            } ],
+            "date_added": "13179411513637803",
+            "date_modified": "13210081595638494",
+            "id": "21",
+            "name": "Funny stuff",
+            "type": "folder"
+         } ],
+         "date_added": "13178893056887632",
+         "date_modified": "13197019630929392",
+         "id": "1",
+         "name": "Lesezeichenleiste",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13178893056887653",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Weitere Lesezeichen",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13178893056887655",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile Lesezeichen",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
