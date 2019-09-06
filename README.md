@@ -1,6 +1,6 @@
 # JSON to HTML Bookmark-Parser
 
-Tool to create a *.html bookmark file out of a JSON string. This *.html bookmark file can then be imported into Chrome.
+Tool to create a *.html bookmark file out of a JSON string. This *.html bookmark file can then be imported into Chrome and most of the other hypermodern browsers.
 
 ## How to use
 
