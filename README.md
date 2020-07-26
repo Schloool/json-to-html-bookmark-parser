@@ -5,4 +5,4 @@ Tool to create a *.html bookmark file out of a JSON string. This *.html bookmark
 ## How to use
 
 Download the project and open the index.html from your file-explorer.
-Drag-and-drop your .json-File into the white box and downlaod your file comfortably.
+Drag-and-drop your .json-File into the white box and download your file comfortably.
